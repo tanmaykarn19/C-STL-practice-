@@ -42,6 +42,8 @@ using namespace std;
 
 // public:
 
+//AGGRESSIVE COWS GFG POTD. 
+
     bool canPlace(int n, int k, vector<int> &stalls, int dist){
     int coord = stalls[0];
     int count = 1; 
